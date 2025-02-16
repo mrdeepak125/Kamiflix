@@ -1,22 +1,22 @@
 <p align="center">
   <div align="center">
-    <a href="https://zenime.site/">
-      <img alt="AnimeHi" src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/logo.png" width="220"/>
+    <a href="https://kamiflix.xyz/">
+      <img alt="kamiflix" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/logo.png" width="220"/>
     </a>
   </div>
-    <h3 align="center">Zenime - Ad free anime streaming platform</h3>
+    <h3 align="center">kamiflix - Ad free anime streaming platform</h3>
     <p align="center">
-  <a href="https://github.com/itzzzme/zenime">
-      <img src="https://img.shields.io/github/stars/itzzzme/zenime" alt="Github Stars">
+  <a href="https://github.com/mrdeepak125/kamiflix">
+      <img src="https://img.shields.io/github/stars/mrdeepalk125/kamiflix" alt="Github Stars">
     </a>
-      <img src="https://img.shields.io/github/issues/itzzzme/zenime" alt="Github Issues">
-     <a href="https://github.com/itzzzme/zenime">
-      <img src="https://img.shields.io/github/forks/itzzzme/zenime" alt="Github Forks" />
+      <img src="https://img.shields.io/github/issues/mrdeepak125/kamiflix" alt="Github Issues">
+     <a href="https://github.com/mrdeepak125/kamiflix">
+      <img src="https://img.shields.io/github/forks/mrdeepak125/kamiflix" alt="Github Forks" />
     </a>
 </p>
 </p>
 <p align="center">
-    <a href="https://zenime.site">Zenime</a> is an open-source anime streaming service that uses <a href="https://github.com/itzzzme/anime-api">custom</a> API, built using ReactJS with javascript and Tailwind CSS. It lets you easily find any anime with intuitive search & suggestion feature and stream without any ads.
+    <a href="https://kamiflix.xyz">kamiflix</a> is an open-source anime streaming service that uses <a href="https://github.com/mrdeepak125/anime-api">custom</a> API, built using ReactJS with javascript and Tailwind CSS. It lets you easily find any anime with intuitive search & suggestion feature and stream without any ads.
  </p>
 
 <details>
@@ -47,21 +47,21 @@
 ## Previews
 
 <div style="text-align: left;">
-  <img src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/homepage.webp" alt="Home Page" style="max-width: 80%;" >
+  <img src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/homepage.webp" alt="Home Page" style="max-width: 80%;" >
   <details>
   <summary style="margin-top:10px">View more screenshots</summary>
   <br/>
   AnimeInfo Page
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/animeinfo.webp" alt="AnimeInfo Page" style="max-width: 80%;">
+  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/animeinfo.webp" alt="AnimeInfo Page" style="max-width: 80%;">
   <br/>
   Searchbar
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/searchbar.webp" alt="Searchbar" style="max-width: 50%;">
+  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/searchbar.webp" alt="Searchbar" style="max-width: 50%;">
   <br/>
   Character & Voice Actors
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/voiceactors.webp" alt="Character & Voice Actors" style="max-width: 80%;">
+  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/voiceactors.webp" alt="Character & Voice Actors" style="max-width: 80%;">
   <br/>
   Watch Page
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/watchpage.webp" alt="Watch Page" style="max-width: 80%;">
+  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/watchpage.webp" alt="Watch Page" style="max-width: 80%;">
   <br/>
   </details>
 </div>
@@ -73,12 +73,12 @@
 ### 2. Run the following code to clone the repository and install all required dependencies
 
 ```bash
-git clone https://github.com/itzzzme/zenime.git
-cd zenime
+git clone https://github.com/mrdeepak125/kamiflix.git
+cd kamiflix
 npm install # or yarn
 ```
 
-### 3. Refer the <a href="https://github.com/itzzzme/zenime/blob/main/.env.example">.env.example</a> to set your .env file up
+### 3. Refer the <a href="https://github.com/mrdeepak125/kamiflix/blob/main/.env.example">.env.example</a> to set your .env file up
 
 ## Start the server
 
@@ -89,15 +89,15 @@ npm start # or npm run dev (to run develepment server)
 
 ### Vercel
 
-Host your own instance of <a href="https://zenime.site">Zenime</a>  on vercel
+Host your own instance of <a href="https://kamiflix.xyz">kamiflix</a>  on vercel
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/itzzzme/zenime)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mrdeepak125/kamiflix)
 
 ### Render
 
-Host your own instance of <a href="https://zenime.site">Zenime</a> on Render.
+Host your own instance of <a href="https://kamiflix.xyz">kamiflix</a> on Render.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/itzzzme/zenime)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mrdeepak125/kamiflix)
 
 ### Pull Requests
 
@@ -115,5 +115,5 @@ If you discover any issues or have suggestions for improvement, please open an i
 
  If you like the project feel free to drop a star ✨. Your appreciation means a lot.
 
-<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/itzzzme" tarGET="_blank">itzzzme 
+<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/mrdeepak125" tarGET="_blank">mrdeepak125 
 </a>🫰</p>
