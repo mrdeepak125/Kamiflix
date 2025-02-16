@@ -5,24 +5,6 @@
     "description": "Watch Anime Online for free without ads on KamiFlix",
     "icons": [
         {
-            "src": "/icon/1.png",
-            "sizes": "16x16",
-            "type": "image/png",
-            "purpose": "any maskable"
-        },
-        {
-            "src": "/icon/2.png",
-            "sizes": "24x24",
-            "type": "image/png",
-            "purpose": "any maskable"
-        },
-        {
-            "src": "/icon/3.png",
-            "sizes": "32x32",
-            "type": "image/png",
-            "purpose": "any maskable"
-        },
-        {
             "src": "/icon/4.png",
             "sizes": "48x48",
             "type": "image/png",
