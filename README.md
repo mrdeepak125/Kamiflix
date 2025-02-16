@@ -1,7 +1,7 @@
 <p align="center">
   <div align="center">
     <a href="https://kamiflix.xyz/">
-      <img alt="kamiflix" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/logo.png" width="220"/>
+      <img alt="kamiflix" src="https://github.com/mrdeepak125/Kamiflix/blob/main/public/logo.png" width="220"/>
     </a>
   </div>
     <h3 align="center">kamiflix - Ad free anime streaming platform</h3>
