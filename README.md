@@ -47,21 +47,21 @@
 ## Previews
 
 <div style="text-align: left;">
-  <img src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/homepage.webp" alt="Home Page" style="max-width: 80%;" >
+  <img src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/homepage.png" alt="Home Page" style="max-width: 80%;" >
   <details>
   <summary style="margin-top:10px">View more screenshots</summary>
   <br/>
   AnimeInfo Page
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/animeinfo.webp" alt="AnimeInfo Page" style="max-width: 80%;">
+  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/animeinfo.png" alt="AnimeInfo Page" style="max-width: 80%;">
   <br/>
   Searchbar
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/searchbar.webp" alt="Searchbar" style="max-width: 50%;">
+  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/searchbar.png" alt="Searchbar" style="max-width: 50%;">
   <br/>
   Character & Voice Actors
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/voiceactors.webp" alt="Character & Voice Actors" style="max-width: 80%;">
+  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/voiceactors.png" alt="Character & Voice Actors" style="max-width: 80%;">
   <br/>
   Watch Page
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/watchpage.webp" alt="Watch Page" style="max-width: 80%;">
+  <img style="margin-top:10px" src="https://raw.githubusercontent.com/mrdeepak125/kamiflix/refs/heads/main/public/watchpage.png" alt="Watch Page" style="max-width: 80%;">
   <br/>
   </details>
 </div>
